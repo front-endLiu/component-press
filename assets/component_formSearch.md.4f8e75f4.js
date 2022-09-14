@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.7ca97028.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"component/formSearch.md"}'),r={name:"component/formSearch.md"},c=a("p",null,"'# from search'",-1),n=[c];function s(_,m,p,d,f,i){return o(),t("div",null,n)}const u=e(r,[["render",s]]);export{h as __pageData,u as default};
