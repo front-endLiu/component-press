@@ -5,6 +5,7 @@ export default defineConfig({
   description: '常用的API封装，依据ElementUI封装全局组件',
   // 打包目录
   dest: './dist',
+  base: './',
   head: [
     // 添加图标
     ['link', { rel: 'icon', href: '/favicon.ico' }],
