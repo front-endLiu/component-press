@@ -2,10 +2,13 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   title: 'front-endLiu',
+  titleTemplate: '组件库 | API',
   description: '常用的API封装，依据ElementUI封装全局组件',
+  lang: 'en-US',
   // 打包目录
   outDir: '../dest',
   base: '/component-press/',
+  appearance: true,
   head: [
     // 添加图标
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -54,4 +57,6 @@ export default defineConfig({
       ],
     },
   },
+  lastUpdated: true,
+  cleanUrls: 'without-subfolders',
 });
