@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.7bd6ccc5.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/throttle.md","lastUpdated":1663227029000}'),r={name:"utils/throttle.md"};function o(s,c,n,l,p,d){return a(),e("div")}const m=t(r,[["render",o]]);export{_ as __pageData,m as default};
